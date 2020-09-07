@@ -1,2 +1,2 @@
 # dego-token
-dego erc20 token
+dego erc20 token contract
